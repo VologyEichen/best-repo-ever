@@ -1,3 +1,3 @@
 # best-repo-ever
 Just a test
-Line 3 test merge conflict
+This line is a merge conflict which one wins
